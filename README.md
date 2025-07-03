@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE
+# Artificial Intelligence
 
 ## 🤖 Artificial Intelligence (AI) Course – Full Overview
 
