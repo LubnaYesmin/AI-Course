@@ -87,7 +87,6 @@ These topics involved both theoretical analysis and practical implementation usi
 
 🗣️ NLP & Robotics
      -- Natural Language Processing (NLP): Basics of understanding and generating human language.
-     
      -- Robotics: Application of AI for pathfinding, control, and environment interaction.
 
 ## ⏳ Course Duration
