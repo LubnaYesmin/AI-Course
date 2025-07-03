@@ -1,10 +1,10 @@
 # ARTIFICIAL INTELLIGENCE
 
-# 🤖 Artificial Intelligence (AI) Course – Full Overview
+## 🤖 Artificial Intelligence (AI) Course – Full Overview
 
 Welcome to the comprehensive summary of my Artificial Intelligence (AI) course!This repository contains my theoretical notes, lab implementations, and project-based learning outcomes from a 6-month academic course on AI.
 
-# 🎯 Purpose of This Course
+## 🎯 Purpose of This Course
 
 The primary aim of this course was to build a strong foundation in artificial intelligence by exploring both classical and modern techniques in problem-solving, knowledge representation, logic, and machine learning.
 Students were encouraged to think algorithmically, solve real-world problems using intelligent techniques, and understand the core principles that drive AI today.
