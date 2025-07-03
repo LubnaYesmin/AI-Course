@@ -9,7 +9,7 @@ Welcome to the comprehensive summary of my Artificial Intelligence (AI) course!T
 The primary aim of this course was to build a strong foundation in artificial intelligence by exploring both classical and modern techniques in problem-solving, knowledge representation, logic, and machine learning.
 Students were encouraged to think algorithmically, solve real-world problems using intelligent techniques, and understand the core principles that drive AI today.
 
-# 📘 What I Learned
+## 📘 What I Learned
 
 The course was structured into two parts:🔹 Theory Topics for foundational understanding🔹 Lab Topics for hands-on algorithm design and implementation
 
@@ -89,10 +89,10 @@ These topics involved both theoretical analysis and practical implementation usi
      -- Natural Language Processing (NLP): Basics of understanding and generating human language.
      -- Robotics: Application of AI for pathfinding, control, and environment interaction.
 
-# ⏳ Course Duration
+## ⏳ Course Duration
      🗓️ Total Duration: 6 MonthsThe course included weekly theoretical lectures and regular lab-based assignments and evaluations.
 
-# 🎓 Course Taken Under
+## 🎓 Course Taken Under
 
 This course was taken as part of the undergraduate Computer Science & Engineering (CSE) curriculum.
 
