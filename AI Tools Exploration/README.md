@@ -64,6 +64,6 @@ It includes the tools I used, steps I followed, and helpful blog/tutorial links 
 ---
 ## 🙌 Special Thanks
 
-- To my instructor **** for excellent teaching and guidance  
+- To my instructor **Razorshi Prozzwal Talukder** for excellent teaching and guidance  
 - To tools like **Gamma.app** and **Pictory.ai** for simplifying the presentation process
 
