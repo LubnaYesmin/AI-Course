@@ -43,5 +43,76 @@ Standard Python (3.6+)
 
 ![chess](https://github.com/user-attachments/assets/228fac98-3c22-4518-bb63-c538660ead6b)
 
+# 🎮 Tic-Tac-Toe Game – Human vs AI using Minimax Algorithm
+
+This is a terminal-based **Tic-Tac-Toe game** where you (the human) play as `X`, and the **AI opponent (O)** plays using the **Minimax algorithm** to make optimal moves.
+
+---
+
+## 🛠️ How to Run the Game
+
+### Step 1: Make sure Python is installed  
+Recommended version: **Python 3.6+**
+
+### Step 2: Save the code  
+Save the game code in a Python file, e.g. `tic_tac_toe.py`
+
+### Step 3: Run the file in terminal or any Python environment  
+```bash
+python tic_tac_toe.py
+
+## 📚 Software / Libraries Required
+No external libraries required
+
+Uses only Python standard library (math)
+
+✅ This game runs in the terminal/console — no need for GUI or installations.
+
+## 🎮 How to Play the Game
+You will play as X
+
+The AI will play as O
+
+On your turn, you will be asked to input:
+
+Row number: 0, 1, or 2
+
+Column number: 0, 1, or 2
+
+The board will update after every move.
+
+After your move, the AI will automatically calculate its best move using the Minimax algorithm
+
+The game ends when:
+
+Either player wins
+
+The board is full (draw)
+
+## 🧠 Algorithm Used
+🔁 Minimax Algorithm
+This game uses the Minimax algorithm, a recursive decision-making strategy used in two-player turn-based games.
+
+The AI explores all possible moves using recursion.
+
+It tries to maximize its score and minimize the opponent's.
+
+Base case:
+
++1 if AI wins (O)
+
+-1 if Human wins (X)
+
+0 if it's a draw
+
+⚙️ Decision Rules:
+AI (O) is the maximizer
+
+Human (X) is the minimizer
+
+AI picks the move that leads to the best guaranteed outcome
+
+Screenshot 2025-07-13 234049.png
+
 
 
