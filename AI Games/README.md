@@ -7,7 +7,7 @@ This is a GUI-based chess game where you (the human player) play as **White** an
 ## 🛠️ How to Run the Game
 
 ### Step 1: Clone or Download the Project
-```bash
+bash
 git clone https://github.com/your-username/ai-chess-game.git
 cd ai-chess-game
 
@@ -58,7 +58,7 @@ Recommended version: **Python 3.6+**
 Save the game code in a Python file, e.g. `tic_tac_toe.py`
 
 ### Step 3: Run the file in terminal or any Python environment  
-```bash
+bash
 python tic_tac_toe.py
 
 ## 📚 Software / Libraries Required
