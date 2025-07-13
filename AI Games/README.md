@@ -115,6 +115,93 @@ AI picks the move that leads to the best guaranteed outcome
 
 Screenshot 2025-07-13 234049.png
 
+# 🎮 Connect 4 Game – Human vs AI (Minimax with Alpha-Beta Pruning)
+
+This is a **console-based Connect 4 game** where a human plays against an AI. The AI uses the **Minimax algorithm with Alpha-Beta Pruning** to make smart decisions. The game is played on a 6x7 board, and the first to align four of their pieces (horizontally, vertically, or diagonally) wins.
+
+---
+
+## ✅ How to Run the Game
+
+### Step 1: Make sure Python is installed
+Recommended version: **Python 3.6+**
+
+### Step 2: Save the code
+Save the Python code in a file named:
+
+bash
+connect4.py
+
+### Step 3: Run the file in terminal or IDE
+python connect4.py
+
+## 📦 Libraries Used
+✅ Only uses built-in Python libraries:
+
+math
+
+random
+
+No external libraries are needed.
+
+## 🎮 How to Play
+You play as Player (1) and go first or second (randomized).
+
+The AI is Player 2 (2).
+
+On your turn:
+
+Input a column number between 0 and 6
+
+If the move is valid, your piece will be placed at the lowest available row in that column
+
+The board will display after every move.
+
+The game ends when:
+
+A player connects 4 pieces (horizontal, vertical, or diagonal)
+
+The board is full (draw)
+
+## 🧠 AI Algorithm: Minimax + Alpha-Beta Pruning
+🔁 Minimax
+The AI simulates all possible future moves to a fixed depth (default: 4)
+
+It evaluates outcomes using a heuristic scoring function:
+
++100 for 4-in-a-row
+
++10 for 3-in-a-row
+
++5 for 2-in-a-row
+
+-8 if the opponent is about to win
+
+## 🔍 Alpha-Beta Pruning
+Optimizes Minimax by pruning branches that won't affect the outcome
+
+Reduces unnecessary computation and improves speed
+
+## ⚡ Depth Control
+You can adjust the difficulty by changing:
+DEPTH = 4
+
+## 📸 Game Example Output
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0]
+[1, 2, 0, 0, 0, 0, 0]
+Your move:
+Enter column (0-6): _
+## 🙌 Acknowledgements
+Developed as part of the AI Lab Course
+
+Topic: Adversarial Search – Minimax Algorithm with Alpha-Beta Pruning
+
+
+
 
 
 
