@@ -111,6 +111,7 @@ AI (O) is the maximizer
 Human (X) is the minimizer
 
 AI picks the move that leads to the best guaranteed outcome
+Screenshot 2025-07-13 234049.png
 
 
 
