@@ -41,4 +41,7 @@ python-chess – for board logic, legal moves, etc.
 sys – for closing the game
 Standard Python (3.6+)
 
+![chess](https://github.com/user-attachments/assets/228fac98-3c22-4518-bb63-c538660ead6b)
+
+
 
